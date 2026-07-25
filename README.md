@@ -281,13 +281,6 @@ Phase 7  → Publish architecture papers and innovations
 
 ---
 
-## 📊 GitHub Activity
-
-![Veera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veeralakumar&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veeralakumar&layout=compact&hide_border=true)
-
----
 
 ## 🤝 Collaboration Interests
 
